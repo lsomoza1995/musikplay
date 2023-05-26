@@ -12,7 +12,7 @@ const Wrapper = styled.div`
   &:hover {
     cursor: pointer;
     background-color: #49a246;
-  }git 
+  }
 `
 
 const Item = styled.p`
